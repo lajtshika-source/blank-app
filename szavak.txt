@@ -1,0 +1,6 @@
+skin;bőr
+tree;fa
+rocket;rakéta
+grass;fű
+car;autó
+knife;kés
